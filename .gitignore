@@ -6,3 +6,6 @@ node_modules/
 /playwright/.cache/
 
 /data/user-data.json
+
+# Playwright
+/playwright/.auth/
